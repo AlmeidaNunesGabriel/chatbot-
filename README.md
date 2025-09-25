@@ -11,3 +11,4 @@ O chatbot permite at√© **3 perguntas** e, ao final, gera um **resumo das intera√
    ```bash
    git clone https://github.com/SEU_USUARIO/livraria-chatbot.git
    cd livraria-chatbot
+   main.py
