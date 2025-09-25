@@ -1,0 +1,7 @@
+Resumo das 3 interações:
+1. Pergunta: Quais generos de livros vcs tem ?
+   Resposta: A livraria se chama Livraria do Porto, localizada em Av. Central, 123 - So Paulo, SP. Funciona nos horários: Seg-Sex 09:00-19:00, Sáb 09:00-14:00. As principais categorias de livros so: Ficço, No-ficço
+2. Pergunta: Qual o livro mais caro ?
+   Resposta: A livraria se chama Livraria do Porto, localizada em Av. Central, 123 - So Paulo, SP. Funciona nos horários: Seg-Sex 09:00-19:00, Sáb 09:00-14:00. As principais categorias de livros so: Ficço, No-ficço
+3. Pergunta: responde a mesma cois independente da pergnta ?
+   Resposta: A livraria se chama Livraria do Porto, localizada em Av. Central, 123 - So Paulo, SP. Funciona nos horários: Seg-Sex 09:00-19:00, Sáb 09:00-14:00. As principais categorias de livros so: Ficço, No-ficço

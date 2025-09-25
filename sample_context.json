@@ -1,0 +1,36 @@
+{
+  "nome": "Livraria do Porto",
+  "endereco": "Av. Central, 123 - São Paulo, SP",
+  "horarios": {
+    "segunda_a_sexta": "09:00-19:00",
+    "sabado": "09:00-14:00",
+    "domingo": "Fechado"
+  },
+  "generos": ["Ficção", "Não-ficção", "Romance", "Fantasia", "Tecnologia", "História"],
+  "livros": [
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "preco": 120.50,
+      "genero": "Fantasia"
+    },
+    {
+      "titulo": "Clean Code",
+      "autor": "Robert C. Martin",
+      "preco": 95.00,
+      "genero": "Tecnologia"
+    },
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "preco": 35.00,
+      "genero": "Romance"
+    },
+    {
+      "titulo": "Sapiens: Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "preco": 70.00,
+      "genero": "História"
+    }
+  ]
+}
